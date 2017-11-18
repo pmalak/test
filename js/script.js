@@ -27,7 +27,7 @@ $( document ).ready(function() {
               $('.logo').stop().animate({
                   height:'60px',
               },600);    
-                    
+                    asadasdasdasdsssssssssssssssssss
           }
       }
       else
